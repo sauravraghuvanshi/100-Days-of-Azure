@@ -5,6 +5,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Started preparation for Microsoft Azure DevOps Solution(AZ-400)
 
 ## Day-1
+
 ### Skilled Measured During the Exam:-
 * Devlop a Site Reliability Engineering Strategy
 * Devlop an instrumental strategy
@@ -13,6 +14,16 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Define and implement continious integration
 * Define and implement continious deployment
 * Devlop a security and compliance plan
+
+### Understanding DevOps
+* What is DevOps?
+* The goal of DevOps
+* The Culture change that is involved
+* The different phases
+
+
+
+
 
 
 
