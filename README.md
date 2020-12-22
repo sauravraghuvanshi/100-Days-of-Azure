@@ -19,7 +19,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * What is DevOps?
 * The goal of DevOps
 * The Culture change that is involved
-* The different phases
+* The different phases(Plan, Code, Build, Testing, Release, Deploy, Operate, Monitor)
 
 ### The different DevOps tools:-
 * Your Planning tools(e.g. Azure Boards, Trello, Atlassian)
