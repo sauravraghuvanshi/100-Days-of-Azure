@@ -15,12 +15,19 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Define and implement continious deployment
 * Devlop a security and compliance plan
 
-### Understanding DevOps
+### Understanding DevOps:-
 * What is DevOps?
 * The goal of DevOps
 * The Culture change that is involved
 * The different phases
 
+### The different DevOps tools:-
+* Your Planning tools(e.g. Azure Boards, Trello, Atlassian)
+* Your issue tracking tools(e.g. Atlassian JIRA, Azure Boards, and Pivotal Tracler)
+* Your source control tools(e.g. Git-GitHub/Azure Repos, Team Foundation Server, Subversion)
+* The Continious Integration tools(e.g. Jenkins, Azure Pipelines, Travis CI)
+* The Continious Deployment tools(e.g. Octopus Deploy, Azure Pipeline, AWS CodeDeploy)
+* The Monitoring and Logging tools(e.g. ELK stack, Azure Monitor, Datadog)
 
 
 
