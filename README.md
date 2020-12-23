@@ -4,7 +4,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 # Target-1 (To Clear AZ-400 Certification Exam) 
 ## Started preparation for Microsoft Azure DevOps Solution(AZ-400)
 
-## Day-1
+## Day-1:-
 
 ### Skilled Measured During the Exam:-
 * Devlop a Site Reliability Engineering Strategy
@@ -31,13 +31,17 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Section-1: Devlop an Instrumental Strategy:-
 
-## Day-2
+## Day-2:-
 
 ### Lab-Creating a resource-Azure Virtual Machine
 * Created 2 Virual Machine
 * One is Windows Server 2019 datacenter and second is Linux Vitual Machine.
 * In Windows server we allowed RDP and HTTP port and then installed web Server on it from "Add role and feature section"
 * In Linux virtual machine we login through PuTTY and then installed inginx using the command "sudo apt-get install nginx"
+
+## Day-3:-
+
+
 
 
 
