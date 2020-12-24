@@ -42,7 +42,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-3:-
 
 ### Creating a resource-Azure storage account
-* Created a storage account account in Azure
+* Created a storage account account in Azure.
 * Used Azure Storage explorer, which is a free software that use to upload and retreve data on Azure storage. 
 
 ### Azure Monitor-Metrices
@@ -50,8 +50,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Worked with metrices in azure monitor.
 * Azure motitor is a monitoring service that can be used for collecting, analysing and acting on telemetry for cloud and on-premises environment.
 * There are many tools available in Azure Monitor.
-* We can detect and diagnose issues across application and dependencies with Application Insights.
- 
+* We can detect and diagnose issues across application and dependencies with **Application Insights**.
+* We can store and drill into monitoring data using **Log Analytics**.
+* We can able to create visualization using **Azure Dashboard** and **Workbooks**
+* The data collected by Azure Monitor is segregated into matcices and logs.
+* Metrices are point in time values.
+* Logs are recorded that can reside in a **Log Analytics workspace**.
+* The Azure Monitor service uses a version of the kusto query language that can be used in the Azure Data explorer to build queries on your data.
+
 
 
 
