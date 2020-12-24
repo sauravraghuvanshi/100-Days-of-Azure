@@ -41,6 +41,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-3:-
 
+### Lab-Creating a resource-Azure storage account
+* Created a storage account account in Azure
+* Used Azure Storage explorer, which is a free software that use to upload and retreve data on Azure storage. 
 
 
 
