@@ -57,7 +57,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Metrices are point in time values.
 * Logs are recorded that can reside in a **Log Analytics workspace**.
 * The Azure Monitor service uses a version of the kusto query language that can be used in the Azure Data explorer to build queries on your data.
+* **Azure Monitor collects data in the following tiers**
+  - Application monitoring data
+  - Guest OS monitoring data
+  - Azure resource monitoring data
+  - Azure subscription  monitoring data
+  - Azure tenent monitoring data
 
+* **Note**: When we go in Azure Monitor-> Matrix Section, it will ask for scope of which we want to access the data.
 
 
 
