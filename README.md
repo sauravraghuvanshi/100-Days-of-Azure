@@ -33,7 +33,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-2:-
 
-### Lab-Creating a resource-Azure Virtual Machine
+### Creating a resource-Azure Virtual Machine
 * Created 2 Virual Machine
 * One is Windows Server 2019 datacenter and second is Linux Vitual Machine.
 * In Windows server we allowed RDP and HTTP port and then installed web Server on it from "Add role and feature section"
@@ -41,9 +41,17 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-3:-
 
-### Lab-Creating a resource-Azure storage account
+### Creating a resource-Azure storage account
 * Created a storage account account in Azure
 * Used Azure Storage explorer, which is a free software that use to upload and retreve data on Azure storage. 
+
+### Azure Monitor-Metrices
+* Learned about Azure Monitor service
+* Worked with metrices in azure monitor.
+* Azure motitor is a monitoring service that can be used for collecting, analysing and acting on telemetry for cloud and on-premises environment.
+* There are many tools available in Azure Monitor.
+* We can detect and diagnose issues across application and dependencies with Application Insights.
+ 
 
 
 
