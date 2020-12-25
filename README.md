@@ -74,6 +74,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * It is like the recording of all of the administrative action.
 * We can able to stream our activity log into storage account or log analytics workspaces from Diagnostic settings.
 
+### Azure Monitor-Alerts:-
+* We have to understand what are alerts in the Azure Monitor Service.
+* How to work with alerts in the Azure Monitor service.
+* We have to define alerts in Azure Monitors.
+* These alerts can be used to notify you whenever any condition are met in the monitoring data.
+
+
 
 
 
