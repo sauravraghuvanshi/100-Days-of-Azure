@@ -84,7 +84,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
  - Log serach queries
  - Activity log events
  - From the health of the underlying Azure platform
- - From tests made for website availability 
+ - From tests made for website availability
+
+* Understand the defination of Target resource, Signal, Criteria, Action.
+* **Steps to create alert rule**: Select Resource-> Condition(Matrices, Activity Log)-> Action-> Alert rule details 
 
 
 
