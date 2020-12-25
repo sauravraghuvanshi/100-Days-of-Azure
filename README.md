@@ -68,6 +68,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-4:-
 
+### Azure Monitor-Activity Logs:-
+* In this we learned about Activity Logs with Azure Monitor.
+* Azure Activity log stores all Controlled Plane Activity(e.g. someone created VM or someone regenerate the key for storage account. We have the log and they are Contolled Plan Activity)
+* It is like the recording of all of the administrative action.
+* We can able to stream our activity log into storage account or log analytics workspaces from Diagnostic settings.
+
 
 
 
