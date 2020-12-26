@@ -91,6 +91,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-5:-
 
+### Azure Log Analytics:-
+* A log analytics workspace is used for storing all of your monitoring data.
+* Each log analytics workspace has its own data repository and configuration.
+* You can configure different data source to send their data onto the log analytics workspace. 
+* These source includes:-
+ - Azure 
 
 
 
