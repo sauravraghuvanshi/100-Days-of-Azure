@@ -119,6 +119,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * This has all the privileges of the Log Analytics Reader.
      * Here the user can also create and configure Automation accounts.
      * The user can also add remove management solutions
+     * The user can also configure the collection of logs from Azure storage and edit the monitoring settings from Azure resource. 
   
 
 
