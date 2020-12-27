@@ -103,7 +103,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 * Basically it install Log Analytics Agent.
 
+## Day-6:-
 
+### Azure log Analytice-Queries:-
+* In this we have to understand how to work with Azure Log Analytics Queries.
 
 
 
