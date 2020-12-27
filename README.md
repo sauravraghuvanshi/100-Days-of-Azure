@@ -96,7 +96,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Each log analytics workspace has its own data repository and configuration.
 * You can configure different data source to send their data onto the log analytics workspace. 
 * These source includes:-
- - Azure 
+ - Azure Virtual machine
+ - Hybrid windows 
+ - Linux Machine
+ - Azure resource that are part of your subscription
+
+* Basically it install Log Analytics Agent.
+
+
 
 
 
