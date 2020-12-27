@@ -108,6 +108,18 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Azure log Analytice-Queries:-
 * In this we have to understand how to work with Azure Log Analytics Queries.
 
+### Azure log Analytics-Managing Access:-
+* We can configure access to our log analytices workspace with the help of **Role-Based Access Control**.
+* There are 2 in-built user for log analytices workspace:-
+
+ 1.**Log Analytics Reader**:-
+ * With this role, a user can view and search all monitoring data.
+ * The user can also view monitoring settings. This includes viewing the configuration of Azure diagnostic and all Azure resources.
+
+ 2.**Log Analytics Contributor**:-
+ * This has all the privileges of the Log Analytics Reader.
+ * Here the user can also create and configure Automation accounts.
+ *   
 
 
 
