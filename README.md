@@ -79,7 +79,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * How to work with alerts in the Azure Monitor service.
 * We have to define alerts in Azure Monitors.
 * These alerts can be used to notify you whenever any condition are met in the monitoring data.
-* We can able to create alerts based on the below monitoring data source
+* **We can able to create alerts based on the below monitoring data source**
  - Matrices Values
  - Log serach queries
  - Activity log events
