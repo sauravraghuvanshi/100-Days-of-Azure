@@ -80,11 +80,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * We have to define alerts in Azure Monitors.
 * These alerts can be used to notify you whenever any condition are met in the monitoring data.
 * **We can able to create alerts based on the below monitoring data source**
- - Matrices Values
- - Log serach queries
- - Activity log events
- - From the health of the underlying Azure platform
- - From tests made for website availability
+  - Matrices Values
+  - Log serach queries
+  - Activity log events
+  - From the health of the underlying Azure platform
+  - From tests made for website availability
 
 * Understand the defination of Target resource, Signal, Criteria, Action.
 * **Steps to create alert rule**: Select Resource-> Condition(Matrices, Activity Log)-> Action-> Alert rule details 
@@ -96,10 +96,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Each log analytics workspace has its own data repository and configuration.
 * You can configure different data source to send their data onto the log analytics workspace. 
 * These source includes:-
- - Azure Virtual machine
- - Hybrid windows 
- - Linux Machine
- - Azure resource that are part of your subscription
+  - Azure Virtual machine
+  - Hybrid windows 
+  - Linux Machine
+  - Azure resource that are part of your subscription
 
 * Basically it install Log Analytics Agent.
 
