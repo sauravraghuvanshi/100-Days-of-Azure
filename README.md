@@ -120,8 +120,15 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * Here the user can also create and configure Automation accounts.
      * The user can also add remove management solutions
      * The user can also configure the collection of logs from Azure storage and edit the monitoring settings from Azure resource. 
-  
 
+## Day-7:-
 
-
-
+### Azure Diagnostic-Virtual Machine:-
+* In this we have to cover about Diagnostic feature which is available for Azure Virtual machine.
+* Also we have to cover how to work with the diagnostic feature.
+* **What is diagnostic feature which is available for Azure Virtual Machine:-**
+  * This is a feature that allow us to collect monitoring data from the guest from the guest operating system for Azure compute resources.
+  * For collection of information, Azure will install the **Azure Diagnostic Extension** on your Azure Virtual Machine.
+  * There are different type of data that can be collected:-
+    * IIS Logs
+    * Application Logs
