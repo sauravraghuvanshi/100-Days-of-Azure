@@ -130,5 +130,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This is a feature that allow us to collect monitoring data from the guest from the guest operating system for Azure compute resources.
   * For collection of information, Azure will install the **Azure Diagnostic Extension** on your Azure Virtual Machine.
   * There are different type of data that can be collected:-
-    * IIS Logs
+    * Windows Event Logs
+    * Performance counters
+    * IIS Logs(Usages information for the IIS websites that are running on the guest OS)
     * Application Logs
+    * Crash dumps(Information about state of process if application crashes)
+    * File based logs(These are logs that are created by the application or services)
+    * Agent diagnostics logs(Information about Azure diagnostics agent)
+
+### Creating a resource-Azure Web Apps:-
+* Here we have to create Azure Web Apps
+* We have to publish a solution onto the Azure Web App
