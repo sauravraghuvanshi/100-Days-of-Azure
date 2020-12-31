@@ -156,5 +156,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here we can get request rates, response times and falure rates for our pages
   * We can get page views and load performance as they are reported by the users' browser
   * It works with variety of platforms includes .Net, Node.js, java and python
+
+### Monitoring Azure resources:-
+
+* **What are we going to learn**
+  * Using the datadog system for monitoring
+
+* **What is datadog**
+  * Datadog is an American monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform
   
   
