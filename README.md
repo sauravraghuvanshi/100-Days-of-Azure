@@ -144,3 +144,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-8:-
 
+### Application Insights:-
+* **What we have to learn:-**
+  * Overview of Application Insights
+  * Using Application Insights
+
+* **Overview of Application Insight:-**
+  * This is an **Application Performance Manageemnt Service** for developers and DevOps proffesionals
+  * With this service we can monitor our live applicaions
+  * It helps to automatically detects performace issues and also help in diagnosing issues.
+  
+  
