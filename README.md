@@ -29,7 +29,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * The Continious Deployment tools(e.g. Octopus Deploy, Azure Pipeline, AWS CodeDeploy)
 * The Monitoring and Logging tools(e.g. ELK stack, Azure Monitor, Datadog)
 
-## Section-1: Devlop an Instrumental Strategy:-
+# Section-1: Devlop an Instrumental Strategy:-
 
 ## Day-2:-
 
@@ -141,3 +141,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Creating a resource-Azure Web Apps:-
 * Here we have to create Azure Web Apps
 * We have to publish a solution onto the Azure Web App
+
+## Day-8:-
+
