@@ -152,6 +152,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **Overview of Application Insight:-**
   * This is an **Application Performance Manageemnt Service** for developers and DevOps proffesionals
   * With this service we can monitor our live applicaions
-  * It helps to automatically detects performace issues and also help in diagnosing issues.
+  * It helps to automatically detects performace issues and also help in diagnosing issues
+  * Here we can get request rates, response times and falure rates for our pages
+  * We can get page views and load performance as they are reported by the users' browser
+  * It works with variety of platforms includes .Net, Node.js, java and python
   
   
