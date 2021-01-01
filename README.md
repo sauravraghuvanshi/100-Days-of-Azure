@@ -163,6 +163,18 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Using the datadog system for monitoring
 
 * **What is datadog**
-  * Datadog is an American monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform
+  * Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform
 
 ## Day-9:-
+
+### Visual Sutdio App Center:-
+* **What we have to cover:-**
+  * What is Visual Studio App Center
+  * What goes into device registration
+
+* What is Visual Studio App Center?
+  * This service is used to **automate and manage** the lifecycle of IOS, Android, Windows and MacOS application
+  * We can connect to our repo and automate our builds
+  * We can then test the builds on real devices in the cloud
+  * We can distribute apps to beta testers
+  * We can also monitor real-world usages with crash and analytics data.
