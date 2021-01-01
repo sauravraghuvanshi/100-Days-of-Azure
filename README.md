@@ -177,4 +177,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * We can connect to our repo and automate our builds
   * We can then test the builds on real devices in the cloud
   * We can distribute apps to beta testers
-  * We can also monitor real-world usages with crash and analytics data.
+  * We can also monitor real-world usages with crash and analytics data
+
+* **Distribution Groups:-**
+  * These are used to control access to release
+  * Here the distribution group is a set of users
+  * We can release the application to the users via distribution groups
+  * **Private Distribution Group:-** Here users are invited by email. The users can then login into Visual Studio App Center and then test the application.
+  * **Public Distribution Group:-** This is for unauthorized users. Here user can download the application via a link
+  * **Shared Distribution Group:-** These are groups that are shared across multiple applications in a single organization.
