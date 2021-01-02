@@ -204,6 +204,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
     * **Medium:-** Here alerts would be based on more balanced thresholds. Here fewer alerts would be generated
     * **Low:-** Here only if there are major deviations, then alerts would be generated. This would results in fewer alerts. 
 
+  * For new resources, dynamic thresholds won't be triggered three days on unless 30 samples of metric data is made available.
+  * We can also define advanced settings of dynamic alerts
+  * This allow us to create alerts based on the number of deviation 
+
 # Devlop a Site Reliability Engineering Strategy:-
 
 
