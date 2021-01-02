@@ -200,7 +200,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * When we define alerts an alerts based on a matric, you can choose a setting known as *sensitivity*
   * This defines what is the amount of deviation from metric behaviour that would be use to generate alerts.
   * **There are three levels of sensetivity:-**
-    * **High:-** 
+    * **High:-** Here an alerts would be generated even on the smallest deviation. This results in more alerts being generated
+    * **Medium:-** Here alerts would be based on more balanced thresholds. Here fewer alerts would be generated
+    * **Low:-** Here only if there are major deviations, then alerts would be generated. This would results in fewer alerts. 
 
 # Devlop a Site Reliability Engineering Strategy:-
 
