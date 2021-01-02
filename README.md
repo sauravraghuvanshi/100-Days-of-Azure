@@ -187,6 +187,21 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Public Distribution Group:-** This is for unauthorized users. Here user can download the application via a link
   * **Shared Distribution Group:-** These are groups that are shared across multiple applications in a single organization.
 
+## Day-10:-
+
+### Azure Monitor-Dynamic thresholds:-
+* **What are we have to cover:-**
+  * What are Dynamic thresholds in Azure Monitor
+  * Quick look at dynamic thresholds
+
+* **What are Dynamic thresholds in Azure Monitor:-**
+  * We can create alerts in Azure Monitor based on dynamic thresholds
+  * Here Azure Monitor uses its internal *machine learning algorithms* to identify patterns and anomalies based on historical metrices collected by Azure monitor resources
+  * When we define alerts an alerts based on a matric, you can choose a setting known as *sensitivity*
+  * This defines what is the amount of deviation from metric behaviour that would be use to generate alerts.
+  * **There are three levels of sensetivity:-**
+    * **High:-** 
+
 # Devlop a Site Reliability Engineering Strategy:-
 
 
