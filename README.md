@@ -208,6 +208,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * We can also define advanced settings of dynamic alerts
   * This allow us to create alerts based on the number of deviation 
 
-# Devlop a Site Reliability Engineering Strategy:-
+# Section-2: Devlop a Site Reliability Engineering Strategy:-
 
 
