@@ -219,5 +219,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 * **What is Site Reliability Engineering:-**
   * This is an engineering discipline that is used to help an organization achieve an appropriate level of reliability in their systems, services and products.
-  *  
+  * Sometimes it is not necessary for a system to be 100% reliable. This is also difficult to achieve
+  * In crucial sectors like aviation or medical you would strive for high reliability
+  * To achieve high reliability, you would need to invest more.
+  * Hence always set a goal with relevant stakeholders on the ideal measure for reliability
+
+* **How can we increase the 
 
