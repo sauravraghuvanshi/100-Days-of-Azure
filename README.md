@@ -224,5 +224,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * To achieve high reliability, you would need to invest more.
   * Hence always set a goal with relevant stakeholders on the ideal measure for reliability
 
-* **How can we increase the 
+* **How can we increase the reliability of system with the help of Azure services:-**
+  1. Using Virtual Machine Scale sets:-
+     * This is a service that allows you to spin up an identical set of virtual machines
+     * Here the service can scale in and out based on demand.
+     * It can increase the number of virtual machines running as part of your system if the load increases
+     * It can also decrease the number of virtual machines running as part of your system if the load decreases 
 
