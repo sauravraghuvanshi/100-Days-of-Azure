@@ -235,5 +235,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * This helps to distribute traffic in an efficient way
      * It can also help ensure that your system still processes requests if one of your virtual machines goes down
   3. Using the Azure Traffic Manager Service:-
-     *  
+     * This is a DNS routing service
+     * Here you can route traffic based on different routing methods
+     * You have the priority routing that can be  used to route traffic to a secondary end point if the primary endpoints fails.
 
