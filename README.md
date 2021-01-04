@@ -230,4 +230,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * Here the service can scale in and out based on demand.
      * It can increase the number of virtual machines running as part of your system if the load increases
      * It can also decrease the number of virtual machines running as part of your system if the load decreases 
+  2. Using an Azure Load balancer:-
+     * The Azure load balancer can be used to route requests to backend virtual machines
+     * This helps to distribute traffic in an efficient way
+     * It can also help ensure that your system still processes requests if one of your virtual machines goes down
+  3. Using the Azure Traffic Manager Service:-
+     *  
 
