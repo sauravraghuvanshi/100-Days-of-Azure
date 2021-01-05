@@ -252,4 +252,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * How to use the Resource Graph Explorer
 
 * **What is the Resource Graph Explorers:-**
-  * This is a service that allow you to browse for the resource that are part of your sebscription
+  * This is a service that allow you to browse for the resource that are part of your sebscription.
+  * Here you can use queries based on the **kusto Query Language** to search for resources
+  * The Resource Graph Explorer provides an enterface that helps in executing multiple queries, evaluating the results and viewing the results in the form of charts.  
