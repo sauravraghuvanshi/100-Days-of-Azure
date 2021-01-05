@@ -249,4 +249,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Using Resource Graph Explorer:-
 * **What we have to learn:-**
   * What is the Resource Graph Explorer
-  * How to use the Resource Graph Explorer  
+  * How to use the Resource Graph Explorer
+
+* **What is the Resource Graph Explorers:-**
+  * This is a service that allow you to browse for the resource that are part of your sebscription
