@@ -239,3 +239,14 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * Here you can route traffic based on different routing methods
      * You have the priority routing that can be  used to route traffic to a secondary end point if the primary endpoints fails.
 
+
+## Day-12:-
+
+### Using Dashboard is Azure Monitor:-
+* What we have to learn:-
+  * How to work with dashboards in Azure
+
+### Using Resource Graph Explorer:-
+* **What we have to learn:-**
+  * What is the Resource Graph Explorer
+  * How to use the Resource Graph Explorer  
