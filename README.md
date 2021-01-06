@@ -272,9 +272,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This service can be used to provide higher availability for your application architecture
 
 * **What are different components of the Azure Load Balancer**
-  1. Frontend IP Configuration:-
+  1. **Frontend IP Configuration:-**
      * This is the IP address assigned to the load balancer
      * If you have to load balance requests from the internet, then you can assign a Public IP address.
      * If you need to load balancer requests from the virtual network, then you assign a private IP address
   
-  2. Backend Pool:- Thi
+  2. **Backend Pool:-** This is the group of virtual machines or instances in the virtual machine scale set that can be used to serve the incoming user requests.
