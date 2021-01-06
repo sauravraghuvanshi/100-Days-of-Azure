@@ -266,7 +266,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * The different Azure Load Balancer SKU's 
   * Public and Internal Load Balancer
 
-* **What is the Azure Load Balancer:-
+* **What is the Azure Load Balancer:-**
   * The Azure Load Balancer is used to distribute incoming traffic to backend virtual Machine
   * The Azure Load Balancer operate at **Layer-4** of the OSI(Open System Interconnection) model
-  * This service can be used to provide 
+  * This service can be used to provide higher availability for your application architecture
+
+* 
