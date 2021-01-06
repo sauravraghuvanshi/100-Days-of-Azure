@@ -256,6 +256,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can use queries based on the **kusto Query Language** to search for resources
   * The Resource Graph Explorer provides an enterface that helps in executing multiple queries, evaluating the results and viewing the results in the form of charts.  
 
+## Day-13:-
+
 ### The Azure Load Balancer Service:-
 * **What we have to learn:-**
   * What is the purpose of Azure Load Balancer
@@ -263,3 +265,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What are the different components of the Azure Load Balancer
   * The different Azure Load Balancer SKU's 
   * Public and Internal Load Balancer
+
+* **What is the 
