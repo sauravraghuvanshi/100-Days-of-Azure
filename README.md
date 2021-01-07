@@ -256,7 +256,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can use queries based on the **kusto Query Language** to search for resources
   * The Resource Graph Explorer provides an enterface that helps in executing multiple queries, evaluating the results and viewing the results in the form of charts.  
 
-## Day-13-14:-
+## Day-13:-
 
 ### The Azure Load Balancer Service:-
 * **What we have to learn:-**
@@ -283,3 +283,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
   4. **Load-Balancing rules:-** This tells the load balancer what to do with the incoming traffic.
 
+## Day-14:-
+
+* **The different Azure Load balancer SKU's:-**
+  1. **Basic Load Balancer:-**
+     * This can support up to 300 instance in the backend pool
+     * The backend pool can contain VMs that are part of an availability set or scale set
+     * The health probes can be only TCP and HTTP
+     * There is no SLA
+  2. 
+    
