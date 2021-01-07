@@ -256,7 +256,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can use queries based on the **kusto Query Language** to search for resources
   * The Resource Graph Explorer provides an enterface that helps in executing multiple queries, evaluating the results and viewing the results in the form of charts.  
 
-## Day-13:-
+## Day-13-14:-
 
 ### The Azure Load Balancer Service:-
 * **What we have to learn:-**
@@ -278,3 +278,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * If you need to load balancer requests from the virtual network, then you assign a private IP address
   
   2. **Backend Pool:-** This is the group of virtual machines or instances in the virtual machine scale set that can be used to serve the incoming user requests.
+
+  3. **Health probe:-** This is used
