@@ -279,4 +279,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   
   2. **Backend Pool:-** This is the group of virtual machines or instances in the virtual machine scale set that can be used to serve the incoming user requests.
 
-  3. **Health probe:-** This is used
+  3. **Health probe:-** This is used to determines the health of the underlying instance in the backend pool.
+
+  4. **Load-Balancing rules:-** This tells the load balancer what to do with the incoming traffic.
+
