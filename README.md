@@ -291,5 +291,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * The backend pool can contain VMs that are part of an availability set or scale set
      * The health probes can be only TCP and HTTP
      * There is no SLA
-  2. 
+  2. **Standard Load Balancer**
+     * This can support upto 1000 instance in the backend pool.
+     * The backend pool contain any virtual machine or virtual machine scale sets in a virtual network
+     * The health probes can be only TCP, HTTp and HTTPS
+     * You get an SLA of 99.99%
+
+### Lab- using  
     
