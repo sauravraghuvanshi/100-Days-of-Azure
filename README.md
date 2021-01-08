@@ -302,7 +302,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * We have to configure backend pool, Health probes, and load balancing rules.
 
 ### Virtual Machine Scale Sets
-* **What we have to learn**
+* **What we have to learn:-**
   * What is virtual machine scale sets
   * How to work with virtual machine scale sets
+* **What are Virtual Machine Scale Sets:-**
+  * This service allows you to create and manage group of identical and load balanced virtual machines
+  * Here the number of underlying instances in the scale set can increase or decrease based on demand or based on a set schedule
     
