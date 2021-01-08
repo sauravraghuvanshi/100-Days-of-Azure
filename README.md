@@ -297,5 +297,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
      * The health probes can be only TCP, HTTp and HTTPS
      * You get an SLA of 99.99%
 
-### Lab- using  
+### Lab-using the Azure Load balancer:-
+* We have to make network interface static
+* We have to configure backend pool, Health probes, and load balancing rules.
+
+### Virtual Machine Scale Sets
+* What we have tol earn
     
