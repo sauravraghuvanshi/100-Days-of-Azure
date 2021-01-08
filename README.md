@@ -308,4 +308,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What are Virtual Machine Scale Sets:-**
   * This service allows you to create and manage group of identical and load balanced virtual machines
   * Here the number of underlying instances in the scale set can increase or decrease based on demand or based on a set schedule
+  * Using virtual machine scale sets, you can add more scalability and availability for your application
+  * **Scale Out:-** Increasing no of VM in scale set
+  * **Scale In:-** Decreasing no of VM in scale set
+  * Install the tool stress to increase the load on VM by using command
+    - sudo apt-get install stress
+  * To stress cpu use the below command
+    - sudo stress--cpu 100
     
