@@ -317,4 +317,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
     - sudo stress--cpu 100
 
 ## Day-15:-
-    
+
+### Using Queues for scaling:-
+* **What are we going to learn:-**
+  * The concept of using queues for scaling
+  * How to use queues in the scalling process
+* The concept of using queues for scaling:-
+  * Each time when there is request for workload to execute, the Web Application sends a message to Azure Queue Storage   
