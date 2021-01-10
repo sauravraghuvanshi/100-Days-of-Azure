@@ -345,3 +345,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   2. **Weighted:-** This can be used distribute traffic across a set of endpoints
   3. **performance:-** This routing mathod can be used to direct users to the closest endpoint when it comes to lowest network latency
   4. **Geographic:-** Here user are directed to specific endpoints based on the geographic location of the DNS query
+  5. **Multivalue:-** Here multiple healthy endpoints are returned to the client
+  6. **Subnet:-** Here a set of end user IP address ranges are mapped to specific endpoint. 
