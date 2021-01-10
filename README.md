@@ -326,4 +326,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Each time when there is request for workload to execute, the Web Application sends a message to Azure Queue Storage and based on number of message on queue the number of VM will get created.
 * Using queues for the scaling process:-
   * We will create an Azure storage queue
-  * We will create a scaling condition in an Azure Virtual Machine Scale Set based on Azure storage queue  
+  * We will create a scaling condition in an Azure Virtual Machine Scale Set based on Azure storage queue 
+
+## Day-16:-
+
+### Usage of Azure Trafic Manager:-
+* **What are 
