@@ -338,3 +338,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * What is the Azure Traffic manager service:-
   * The Azure Traffic Manager service is a DNS-based traffic load balancer
   * This service helps you to distribute traffic to services across global Azure regions
+  * The Traffic manager service directs client requests to the most appropriate service endpoint based on the traffic-routing method and base on the health on the of the endpoints
+  * An endpoint is reffered to an internet facing service that is hosted inside or outside of Azure
