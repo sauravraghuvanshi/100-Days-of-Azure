@@ -344,4 +344,4 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   1. **Priority:-** This is used to direct traffic to a secondary endpoint if the primary endpoint fails
   2. **Weighted:-** This can be used distribute traffic across a set of endpoints
   3. **performance:-** This routing mathod can be used to direct users to the closest endpoint when it comes to lowest network latency
-  4. **
+  4. **Geographic:-** Here user are directed to specific endpoints based on the geographic location of the DNS query
