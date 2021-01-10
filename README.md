@@ -335,3 +335,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What is the Azure Traffic Manager Service
   * What are the different routing methods vailable
   * How to use service itself 
+* What is the Azure Traffic manager service:-
+  * The Azure Traffic Manager service is a DNS-based traffic load balancer
+  * This service helps you to distribute traffic to services across global Azure regions
