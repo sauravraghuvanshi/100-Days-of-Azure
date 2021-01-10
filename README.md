@@ -331,4 +331,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-16:-
 
 ### Usage of Azure Trafic Manager:-
-* **What are 
+* **What we have to learn:-**
+  * What is the Azure Traffic Manager Service
+  * What are the different routing methods vailable
+  * How to use service itself 
