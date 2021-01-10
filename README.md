@@ -340,3 +340,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This service helps you to distribute traffic to services across global Azure regions
   * The Traffic manager service directs client requests to the most appropriate service endpoint based on the traffic-routing method and base on the health on the of the endpoints
   * An endpoint is reffered to an internet facing service that is hosted inside or outside of Azure
+* What are the different routing methods available:-
+  1. **Priority:-** This is used to direct traffic to a secondary endpoint if the primary endpoint fails
