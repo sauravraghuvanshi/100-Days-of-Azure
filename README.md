@@ -342,3 +342,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * An endpoint is reffered to an internet facing service that is hosted inside or outside of Azure
 * What are the different routing methods available:-
   1. **Priority:-** This is used to direct traffic to a secondary endpoint if the primary endpoint fails
+  2. **Weighted:-** This can be used distribute traffic across a set of endpoints
+  3. **performance:-** This routing mathod can be used to direct users to the closest endpoint when it comes to lowest network latency
+  4. **
