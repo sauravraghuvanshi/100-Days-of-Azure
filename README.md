@@ -350,3 +350,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-17:-
 
+### Understanding your SLA
+* **What are we going to learn**
+  * Common SLA provided for Azure Services
+  * Understanding of composite SLA
