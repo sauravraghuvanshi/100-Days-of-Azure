@@ -359,4 +359,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * If you have Virtual Machine that have two are more instances that are deployed across two or more Availability Zones in the same Azure region, you will guaranteed Virtual Machine connectivity to at least one instances that are deployed across an availability set, you will be guaranteed Virtual Machine connectivity to atleast one instance at 99.95% of the time.
   * For an Azure Standard Load Balancer that serves two or more healthy Virtual Machines instances, you will be guaranted availability 99.99% of the time
   * You won't get the same SLA for the basic Load Balancer
-  * 
+  * For Azure Storage accounts, you get a general SLA of 99.9% for the read and write operations
+* **Understanding Composite SLA:-**
+  * When you have multiple services for your application, you have to consider the SLA for each services
+  * Let's say that you have an application that that makes use of the Azure Web App service and the Azure SQL Database service
