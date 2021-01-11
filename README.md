@@ -363,3 +363,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **Understanding Composite SLA:-**
   * When you have multiple services for your application, you have to consider the SLA for each services
   * Let's say that you have an application that that makes use of the Azure Web App service and the Azure SQL Database service
+  * For Azure Web Apps, you get an SLA of 99.95%
+  * For Azure SQL Database, you get an SLA of 99.99%
+  * Hence the composite SLA for the system would be 99.95% * 99.99% = 99.94%
