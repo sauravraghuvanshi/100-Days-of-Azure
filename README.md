@@ -351,6 +351,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-17:-
 
 ### Understanding your SLA
-* **What are we going to learn**
+* **What are we going to learn:-**
   * Common SLA provided for Azure Services
   * Understanding of composite SLA
+* Common SLA provided for Azure Services:-
+  * Azure normally gives an Service Level Agreement of 99.9% for all paid services
+  * If you have Virtual Machine that have two are more instances that are deployed across two or more Availability Zones in the same Azure region, you will guaranteed Virtual Machine connectivity to at least one instances that are deployed across an availability set, you will be guaranteed Virtual Machine connectivity to atleast one instance at 99.95% of the time
