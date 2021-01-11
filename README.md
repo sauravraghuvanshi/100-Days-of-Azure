@@ -356,4 +356,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Understanding of composite SLA
 * Common SLA provided for Azure Services:-
   * Azure normally gives an Service Level Agreement of 99.9% for all paid services
-  * If you have Virtual Machine that have two are more instances that are deployed across two or more Availability Zones in the same Azure region, you will guaranteed Virtual Machine connectivity to at least one instances that are deployed across an availability set, you will be guaranteed Virtual Machine connectivity to atleast one instance at 99.95% of the time
+  * If you have Virtual Machine that have two are more instances that are deployed across two or more Availability Zones in the same Azure region, you will guaranteed Virtual Machine connectivity to at least one instances that are deployed across an availability set, you will be guaranteed Virtual Machine connectivity to atleast one instance at 99.95% of the time.
+  * For an Azure Standard Load Balancer that serves two or more healthy Virtual Machines instances, you will be guaranted availability 99.99% of the time
+  * You won't get the same SLA for the basic Load Balancer
+  * 
