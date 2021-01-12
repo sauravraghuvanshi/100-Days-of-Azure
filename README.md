@@ -383,3 +383,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Cost is important** Here you need to pay for the duplicate infrastructure in the East US region
   * **Why we would choose on-going replication?** This would ensure we don't loose that much data in the event of a disaster
 
+# Section-3: Develop a Security and Compliance Plan:-
+
