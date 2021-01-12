@@ -368,3 +368,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Hence the composite SLA for the system would be 99.95% * 99.99% = 99.94%
 
 ## Day-18:-
+
+### Recovery Strategies:-
+* **What we have to learn:-**
+  * Planning for Disaster Recovery
+  * Quick look at geo-replication for an Azure SQL database
