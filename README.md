@@ -377,4 +377,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * When you host application using cloud infrastructure, you always have to plan for disaster recovery scenarios
   * This is important for application that are cretical and need to be up and running all the time
   * Businesses will normally have procedures in place for recovery for their application
-  
+  * The procedure would be dependent on many aspects such as the importance of having a recovery solution and the cost
+  * Also aspect such how long can the application can be down and what is the acceptable loss of data
+  * we have to set the system for ongoing replication of data
+  * **Cost is important** Here you need to pay for the duplicate infrastructure in the East US region
+  * **Why we would choose on-going replication?** This would ensure we don't loose that much data in the event of a disaster
+
