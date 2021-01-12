@@ -373,3 +373,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * Planning for Disaster Recovery
   * Quick look at geo-replication for an Azure SQL database
+* Planning for Disaster Recovery:-
+  * When you host application using cloud infrastructure, you always have to plan for disaster recovery scenarios
+  * This is important for application that are cretical and need to be up and running all the time
+  * Businesses will normally have procedures in place for recovery for their application
+  
