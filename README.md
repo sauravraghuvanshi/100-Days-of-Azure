@@ -366,3 +366,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * For Azure Web Apps, you get an SLA of 99.95%
   * For Azure SQL Database, you get an SLA of 99.99%
   * Hence the composite SLA for the system would be 99.95% * 99.99% = 99.94%
+
+## Day-18:-
