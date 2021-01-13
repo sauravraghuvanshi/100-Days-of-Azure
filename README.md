@@ -390,7 +390,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * What is Azure Active Directory
   * How does it work
-  *  Pricing options
+  * Pricing options
 
 * What is Azure Active Directory:-
   * This is a cloud-based identity and access management service
@@ -398,9 +398,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * We can assign licences to users
   * We can give access to resource in Azure to users defined in Azure AD
   * You can also grant different roles to users in Azure AD
-  
+
 * How does it work:-
   * When we need to access resources in Azure we first need to sign in to our Azure AD and then based on the permession that we haave we can able to access the resources
+
 * Pricing Options:-
-  * 
+  * **Azure Active Free:-** This provides user and group management. It also provides on-premises directory synchronization, basic reports and self-service password change for cloud users
+  * **Azure Active Directory Premium P1:-** Here hybrid users can acccess both on-premises and cloud resources. It also support the user of dynamic groups, cloud write-back capabilities and self-service password reset for on-premises users
+  * **Azure Active Directory Premium P2:-** This provides important features such as Azure Active Directory Identity Protection and Privileged Identity Mangement
 
