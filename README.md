@@ -392,3 +392,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * How does it work
   *  Pricing options
 * What is Azure Active Directory:-
+  * This is a cloud-based identity and access management service
+  * We can create users and groups in Azure AD
+  * We can assign licences tousers
+  
