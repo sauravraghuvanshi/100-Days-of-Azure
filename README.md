@@ -394,5 +394,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * What is Azure Active Directory:-
   * This is a cloud-based identity and access management service
   * We can create users and groups in Azure AD
-  * We can assign licences tousers
-  
+  * We can assign licences to users
+  * We can give access to resource in Azure to users defined in Azure AD
+  * You can also grant different roles to users in Azure AD
+
