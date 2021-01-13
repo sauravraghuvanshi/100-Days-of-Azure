@@ -386,4 +386,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 # Section-3: Develop a Security and Compliance Plan:-
 
 ## Day-19:-
-
+### Quick review on Azure AD:-
+* **What we have to learn:-**
+  * What is Azure Active Directory
+  * How does it work
+  *  Pricing options
+* What is Azure Active Directory:-
