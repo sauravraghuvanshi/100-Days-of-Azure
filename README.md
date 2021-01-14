@@ -408,3 +408,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Azure Active Directory Premium P2:-** This provides important features such as Azure Active Directory Identity Protection and Privileged Identity Mangement
 
 ## Day-20:-
+### Managing your Azure AD user and group:-
+* **What we have to learn:-**
+  * Users and groups
+* Users and groups:-
+  * We can create users in Azure AD
+  * We can also able to logically group the users into groups
+  * We can assign Azure AD roles to either users or groups
+  * We can also assign permissions to resources in our Azure subscripyions to users or groups
