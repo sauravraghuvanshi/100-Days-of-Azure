@@ -424,4 +424,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * How to enable Multi-Factor Authentication
 * What is Multi-Factor Authentication
   * This is the process where in the user is prompted for an additional form identification during the sign-in process
-  * This makes the sign-in process more secure 
+  * This makes the sign-in process more secure
+  * The following methods are available form of MFA
+    1. Microsoft Authentication App
+    2. SMS
+    3. Voice Call
+    4. Hardware token
