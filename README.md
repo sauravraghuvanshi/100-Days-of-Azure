@@ -407,3 +407,4 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Azure Active Directory Premium P1:-** Here hybrid users can acccess both on-premises and cloud resources. It also support the user of dynamic groups, cloud write-back capabilities and self-service password reset for on-premises users
   * **Azure Active Directory Premium P2:-** This provides important features such as Azure Active Directory Identity Protection and Privileged Identity Mangement
 
+## Day-20:-
