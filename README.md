@@ -434,7 +434,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-21:-
 
 ### Conditional Access Policies:-
-* **What are we going to learn:-**
+* **What we have to learn:-**
   * What are conditional access policies
   * How to work with coditional access policies
 * What are conditional access policies:-
@@ -448,7 +448,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Real time and calculated risk detection:-** Here Azure AD Identity Protection can be used to identify the sign-in risk behaviour. The policy can then be used to either grant or block access based on the risk sevierity 
 
 ### Azure AD Privileged Identity Management:-
-* **What are we going to learn:-**
+* **What we have to learn:-**
   * What is the Azure AD Privileged Identity Management
 * What is Azure AD Privileged Identity Management
+  * We can use this to provide just-in-time privileged access to Azure AD and Azure resources
+  * We can assign time-based access to resources using start and end time using start and end dates
+  * We can ensure approval is taken before the activation of privileged roles
+  * We can also ensure multi-factor authentication is carried out to activate any role
 
