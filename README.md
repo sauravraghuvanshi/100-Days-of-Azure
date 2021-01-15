@@ -450,7 +450,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Azure AD Privileged Identity Management:-
 * **What we have to learn:-**
   * What is the Azure AD Privileged Identity Management
-* What is Azure AD Privileged Identity Management
+* What is Azure AD Privileged Identity Management:-
   * We can use this to provide just-in-time privileged access to Azure AD and Azure resources
   * We can assign time-based access to resources using start and end time using start and end dates
   * We can ensure approval is taken before the activation of privileged roles
@@ -459,5 +459,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * We need to ensure each user that needs to use Azure AD Privileged Identity management is assigned an Azure AD Premium P2 license
   * To start using Azure AD Privileged Identity management, first ensure to login as the Global Administrator 
   * Go to the Azure AD Privileged Identity Mangement service
+  * Consent to using Privileged Identity Mangement
+  * We will then be requested to carry out multifactor authentication
    
 
