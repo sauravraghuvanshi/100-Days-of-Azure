@@ -446,3 +446,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **IP Location Information:-** Here companies can create configure IP address to block or allow traffic from
   * **Device:-** Here only users using devices with specific platforms could be allowd to access
   * **Real time and calculated risk detection:-** Here Azure AD Identity Protection can be used to identify the sign-in risk behaviour. The policy can then be used to either grant or block access based on the risk sevierity 
+
+### Azure AD Privileged Identity Management:-
+* **What are we going to learn:-**
+  * What is the Azure AD Privileged Identity Management
+* What is Azure AD Privileged Identity Management
+
