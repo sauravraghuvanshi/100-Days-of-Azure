@@ -434,6 +434,15 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-21:-
 
 ### Conditional Access Policies:-
-* **What are we going to learn**
+* **What are we going to learn:-**
   * What are conditional access policies
   * How to work with coditional access policies
+* What are conditional access policies:-
+  * Conditioanal access policies are used to allow users to access a resource only if they perform a certain action
+  * It is used to add an extra layer of security when it comes to accessing application such as Azure Portal
+  * You can  provide access to users based on signals available and creating conditioan access policies
+* Common Signals:-
+  * **User or group membership:-** Only apply policies to certain users and groups
+  * **IP Location Information:-** Here companies can create configure IP address to block or allow traffic from
+  *  
+ 
