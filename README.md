@@ -433,3 +433,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-21:-
 
+### Conditional Access Policies:-
+* **What are we going to learn**
+  * What are conditional access policies
+  * How to work with coditional access policies
