@@ -444,5 +444,5 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Common Signals:-
   * **User or group membership:-** Only apply policies to certain users and groups
   * **IP Location Information:-** Here companies can create configure IP address to block or allow traffic from
-  *  
- 
+  * **Device:-** Here only users using devices with specific platforms could be allowd to access
+  * **Real time and calculated risk detection:-** Here Azure AD Identity Protection can be used to identify the sign-in risk behaviour. The policy can then be used to either grant or block access based on the risk sevierity 
