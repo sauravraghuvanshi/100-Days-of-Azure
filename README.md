@@ -455,4 +455,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * We can assign time-based access to resources using start and end time using start and end dates
   * We can ensure approval is taken before the activation of privileged roles
   * We can also ensure multi-factor authentication is carried out to activate any role
+  * Get notification when privileged roles are activated 
+  * We need to ensure each user that needs to use Azure AD Privileged Identity management is assigned an Azure AD Premium P2 license
+  * To start using Azure AD Privileged Identity management, first ensure to login as the Global Administrator 
+  * Go to the Azure AD Privileged Identity Mangement service
+   
 
