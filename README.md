@@ -469,4 +469,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What are we going to learn:-**
   * What is the Azure key vault service
   * Working with the Azure key vault service
+* What is the Azure key vault service:-
+  * This is a tool that can be used to securely store and access secrets
+  * Secrets can be API keys, password or certificates
+  * **Example:-** 
+    * Let's say an application is being developed that is used to encrpt data. The 
 
