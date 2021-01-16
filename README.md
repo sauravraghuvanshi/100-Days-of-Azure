@@ -473,5 +473,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This is a tool that can be used to securely store and access secrets
   * Secrets can be API keys, password or certificates
   * **Example:-** 
-    * Let's say an application is being developed that is used to encrpt data. The 
+    * Let's say an application is being developed that is used to encrpt data. The data needs to be encrypted using an encryption key
+    * The encryption key, instead of being stored in the application itself, can be stored in the Azure key vault service
+    * The application can then make a secure call to get the encryption key from the Azure key vault service
+    * You can also set access permission to service principals for the secrets, keys and certificates stored in the Azure key vault
 
