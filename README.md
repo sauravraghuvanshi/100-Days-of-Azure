@@ -466,7 +466,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-22:-
 
 ### Azure Key Vault:-
-* **What are we going to learn:-**
+* **What we have to learn:-**
   * What is the Azure key vault service
   * Working with the Azure key vault service
 * What is the Azure key vault service:-
@@ -481,4 +481,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * You can also protect your key vault and its objects using the soft-delete feature
   * Here event though the key vault or an object is deleted, the object would still be available for a duration of time
   * The retention period can be configured for 7 to 90 days
+
+### Service Principal:-
+* **What we have to learn:-**
+  * What is a security principal
+  * How to use a security principal
+*  
 
