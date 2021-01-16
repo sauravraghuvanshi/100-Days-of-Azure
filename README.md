@@ -467,4 +467,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ### Azure Key Vault:-
 * **What are we going to learn:-**
+  * What is the Azure key vault service
+  * Working with the Azure key vault service
 
