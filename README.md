@@ -486,5 +486,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * What is a security principal
   * How to use a security principal
-*  
+* What is a security pricipal:-
+  * In order to access resource that are secured by an Azure AD tenant, the access must be represented by a security pricipal
+  * The security pricipal defines the access policy and the permissions for the user or the application in the Azure AD tenant
 
