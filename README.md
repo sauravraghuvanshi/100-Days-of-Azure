@@ -476,5 +476,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
     * Let's say an application is being developed that is used to encrpt data. The data needs to be encrypted using an encryption key
     * The encryption key, instead of being stored in the application itself, can be stored in the Azure key vault service
     * The application can then make a secure call to get the encryption key from the Azure key vault service
-    * You can also set access permission to service principals for the secrets, keys and certificates stored in the Azure key vault
+  * You can also set access permission to service principals for the secrets, keys and certificates stored in the Azure key vault
+  * There are different permissions available for working with secrets, keys, or certificates
+  * You can also protect your key vault and its objects using the soft-delete feature
+  * Here event though the key vault or an object is deleted, the object would still be available for a duration of time
+  * The retention period can be configured for 7 to 90 days
 
