@@ -504,4 +504,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * A look at Azure Security Center
 * **What is Azure Security Center:-**
   * This is a security system that is available in Azure
+  * It provides **advanced threat protection** for our application in the cloud or in  our on-premise infrastructure
+  * Azure Security Center has the ability to access your environment and gives you the the uderstanding on wheater your resources are secure or not
   * 
