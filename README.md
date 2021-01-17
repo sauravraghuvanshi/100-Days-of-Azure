@@ -495,6 +495,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Azure Active Directory:-
 * **What are we going to learn:-**
   * Using a managed identity
-* 
+* Using a Managed Identity:-
+  * A common challenge for developers is the management of secrets and credentials to secure communication between different services. On Azure, managed identities eliminate the need for developers having to manage credentials by providing an identity for the Azure resource in Azure AD and using it to obtain Azure Active Directory (Azure AD) tokens. This also helps accessing Azure Key Vault where developers can store credentials in a secure manner. Managed identities for Azure resources solves this problem by providing Azure services with an automatically managed identity in Azure AD.
 
 ### Azure Security Center:-
