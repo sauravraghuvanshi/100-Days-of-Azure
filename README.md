@@ -506,4 +506,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This is a security system that is available in Azure
   * It provides **advanced threat protection** for our application in the cloud or in  our on-premise infrastructure
   * Azure Security Center has the ability to access your environment and gives you the the uderstanding on wheater your resources are secure or not
-  * 
+  * **There are two pricing tiers for azure security- free and standard:-**
+    * Free:- Missing OS patches assessment, Security Misconfiguration assessment, Endpoint protection assessment, Disk encryption assessment.
+    * Standard:- Virtual Machine Behavioural Analytics, Network-based security alerts, Just-In-Tine VM access, Adoptive application controls.
