@@ -514,4 +514,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * What is the Azure Policy service
   * How to use the  Azure policy service
-* 
+* What is the Azure Policy Service:-
+  * This is a service that can be used to create, assign and manage policies
+  * These policies can be  used to enforce rules that resources must abide by
+  * Policies can also show non-compliance of existing resources
+  * There are already many inbuild policies in place 
+  * Defination contain all inbuild policies 
