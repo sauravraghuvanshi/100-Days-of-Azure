@@ -509,3 +509,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **There are two pricing tiers for azure security- free and standard:-**
     * Free:- Missing OS patches assessment, Security Misconfiguration assessment, Endpoint protection assessment, Disk encryption assessment.
     * Standard:- Virtual Machine Behavioural Analytics, Network-based security alerts, Just-In-Tine VM access, Adoptive application controls.
+
+### Azure Policies:-
+* **What we have to learn:-**
+  * What is the Azure Policy service
+  * How to use the  Azure policy service
+* 
