@@ -554,9 +554,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * How to work with Team Foundation Version Control
 
 ### Azure Repos-Git:-
-* **What we have to learn:-**                                            |Staged Area|
-  * Working with Git locally                                                   ^
-  * Working with Git in Azure Repos                                            |
+* **What we have to learn:-**                                           
+  * Working with Git locally                                                   
+  * Working with Git in Azure Repos                                            
 * |Create a file Locally|--> |Initialize an empty git repository|--> |Add the files that need to be commited|--> |Commit the file locally|--> |Push the changes to Azure Repos|                             
                                                                                    
 
