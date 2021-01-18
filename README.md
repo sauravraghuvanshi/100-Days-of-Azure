@@ -531,9 +531,15 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Centralized Version Control System
   * Distributed Version Control System
   * Benefits of each version control system
-* Using a versioning control system:-
+* **Using a versioning control system:-**
   * Developers can use a versioning control system to record changes that are made to their source code file over time
   * This gives the developer the ability to revert back to a previous file version or even back to a previous project version
   * The source code versioning system also has the ability to compare changes made to a file from one version to another
-  * The most popular source code system is git
+  * The most popular source code system is git 
+* **Using a centralized source control system:-**
+  * It's beneficial to use when you have a large code base 
+  * Here you can specify fine grain permission at the file level
+  * You can monitor the usages of files because the check-in and check-out happens at the server level
+  * You can also lock files if required. This would prevent these files from being changed on server 
+  * Eg:- Team Foundation
  
