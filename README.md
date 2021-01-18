@@ -541,5 +541,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can specify fine grain permission at the file level
   * You can monitor the usages of files because the check-in and check-out happens at the server level
   * You can also lock files if required. This would prevent these files from being changed on server 
-  * Eg:- Team Foundation
+  * Eg:- Team Foundatiot
+* **Using a distributed source control system:-**
+  * You are giving the developer full control over the repository by allowing to use a local copy
+  * The developer also gets the full history along with the repository code
+  * It's great to use when you have many distributed teams
+  * Great when working with open source code bases
  
