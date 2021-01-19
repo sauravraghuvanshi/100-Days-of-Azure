@@ -565,4 +565,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * What are branch in Git
   * How to work with branches in Git
+* What are Branches in Git:-
+  * Branches help developer to work on a different line of development and not touch the main branch of work
+  * So let's say that developers want to work on a new feature of an application 
+  * Instead of adding the code changes to the main branch, they can create a new branch and add the code to the new branch
+  *  
  
