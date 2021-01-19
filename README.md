@@ -569,5 +569,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Branches help developer to work on a different line of development and not touch the main branch of work
   * So let's say that developers want to work on a new feature of an application 
   * Instead of adding the code changes to the main branch, they can create a new branch and add the code to the new branch
-  *  
+  * The git branches are very light weight and hence easy to use
+  * Use 'git branch branch_name' command to create a new branch
+  * Use 'git checkout branch_name' to make changes on new branch not the master
+  * To check on which branch pointer is pointing use git branch command 
  
