@@ -592,5 +592,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * The different type of merges:-
   * **Merge(no fast-forward):-** Here all the individual commits in the pull requests branch are preserved as-it-is. A new merge commit is created which unites the master branch and the pull request branch
   * **Squah commit:-** Here the resulting commit is not exactly a merge commit, Here it just maintains a simple, straight, linear history
+  * **Rebase:-** Here the Rebase will take each individual commit in the pull request and cherry-pick them into the master branch
+  
   
  
