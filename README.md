@@ -596,5 +596,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Use 'git merge branch_name' to merge it in master branch
 * Then do 'git commit'
 
+### Visual Studio - Azure Repos-Git:-
+* **What we have to learn:-**
+  * Using Visual Studio to publish a project onto Azure Repos-Git
+
   
  
