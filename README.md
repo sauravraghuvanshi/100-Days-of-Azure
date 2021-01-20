@@ -589,4 +589,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * The lead developer can check what are the chages that are going to be made
   * If the change are approved, the pull request can be approved
   * You can protect your branches with the help of branch policies
+* The different type of merges:-
+  * **Merge(no fast-forward):-** Here all the individual commits in the pull requests branch are preserved as-it-is. A new merge commit is created which unites the master branch and the pull request branch
+  * **Squah commit:-** Here the resulting commit is not exactly a merge commit, Here it just maintains a simple  
  
