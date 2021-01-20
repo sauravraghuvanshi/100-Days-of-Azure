@@ -581,4 +581,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What are pull requests in Git
   * The different types of merges
   * How to work with Pull requests in Git
+* What are pull requests in Git:-
+  * Let's say a developer has gone ahead and made chages to a particular branch in their local repository, and now the developer wants to merge the changes onto the branch into Azure Repos
+  * Let's say that the company want to insure that the changes are viewed before they can be finally merged onto the repository in Azure repos
+  * For this there can be restriction placed on the branch where in the developer first needs to intitiate a pull request
+  * 
  
