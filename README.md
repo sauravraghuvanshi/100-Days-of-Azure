@@ -585,5 +585,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Let's say a developer has gone ahead and made chages to a particular branch in their local repository, and now the developer wants to merge the changes onto the branch into Azure Repos
   * Let's say that the company want to insure that the changes are viewed before they can be finally merged onto the repository in Azure repos
   * For this there can be restriction placed on the branch where in the developer first needs to intitiate a pull request
-  * 
+  * The pull request can be reviewed by a lead developer 
+  * The lead developer can check what are the chages that are going to be made
+  * If the change are approved, the pull request can be approved
+  * You can protect your branches with the help of branch policies
  
