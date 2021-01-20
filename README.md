@@ -576,5 +576,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-26:-
 
-
+### Azure Repos - Pull requests:-
+* **What we have to learn:-**
+  * What are pull requests in Git
+  * The different types of merges
+  * How to work with Pull requests in Git
  
