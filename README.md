@@ -611,4 +611,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can request for reviews from your peers and reviewed the change requests accoudingly
   * You can also use automated software to conduct code reviews 
 
+### GitHub Code Scanning:-
+* **What we have to learn:-**
+  * Understanding code scanning in GitHub
+
+
  
