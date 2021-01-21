@@ -618,6 +618,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Code scanning is a feature that is available in GitHub
   * This can be used to find for security vulnerabilities and coding errors in your source code
   * GitHub can be then generated alerts based on the vulnerabilities encountered 
+  * Code scanning can be used with CodeQL
+  * This is a semantic code analysis engine that treats code as data
+  * It can then find for potential vulneraabilities in the code 
 
 
  
