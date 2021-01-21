@@ -600,5 +600,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * **What we have to learn:-**
   * Using Visual Studio to publish a project onto Azure Repos-Git
 
-  
+## Day-27:-
+
+
  
