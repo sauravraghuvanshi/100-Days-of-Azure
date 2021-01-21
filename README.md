@@ -614,6 +614,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### GitHub Code Scanning:-
 * **What we have to learn:-**
   * Understanding code scanning in GitHub
+* Understanding code scanning in GitHub:-
+  * Code scanning is a feature that is available in GitHub
+  * This can be used to find for security vulnerabilities and coding errors in your source code
+  * GitHub can be then generated alerts based on the vulnerabilities encountered 
 
 
  
