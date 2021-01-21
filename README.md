@@ -602,5 +602,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-27:-
 
+### Code Reviews:-
+* **What we have to cover:-**
+  * Using Code Review
 
  
