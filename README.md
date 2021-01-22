@@ -637,6 +637,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Azure Pipelines:-** This can be used to automatically build and test your code projects
   * **Azure Test Plans:-** Here you can manage manual testing which include user acceptance testing, Exploratory testing and Shareholder feedback
   * **Azure Artifacts:-** Here you can create and shared Maven, npm, and Nuget package feeds from public sources with teams of any size
-
+* What is an Azure DevOps projects:-
+  * An Azure DevOps projects is an encapulation of the repository for source code and also for the group of people who would be responsibe for planning, tracking and collaboration on the software solution being build
+  * If you have different business units, you can add projects for each business unit
 
  
