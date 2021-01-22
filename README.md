@@ -631,6 +631,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What is available with Azure DevOps
   * What is an Azure DevOps project
   * The pricing involved with Azure DevOps
+* What is available with Azure DevOps:-
+  * **Azure Boards:-** Here teams can create and track user stories, backlog items, track, feature and bugs that are linked onto a project
+  * **Azure Repos:-** This is a set of version control tools that helps you to manage your code.
+  * **Azure Pipelines:-** This can be used to automatically build and test your code projects
+  * **Azure Test Plans:-** Here you can manage manual testing which include user acceptance testing, Exploratory testing and Shareholder feedback.
 
 
  
