@@ -635,7 +635,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Azure Boards:-** Here teams can create and track user stories, backlog items, track, feature and bugs that are linked onto a project
   * **Azure Repos:-** This is a set of version control tools that helps you to manage your code.
   * **Azure Pipelines:-** This can be used to automatically build and test your code projects
-  * **Azure Test Plans:-** Here you can manage manual testing which include user acceptance testing, Exploratory testing and Shareholder feedback.
+  * **Azure Test Plans:-** Here you can manage manual testing which include user acceptance testing, Exploratory testing and Shareholder feedback
+  * **Azure Artifacts:-** Here you can create and shared Maven, npm, and Nuget package feeds from public sources with teams of any size
 
 
  
