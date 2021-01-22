@@ -626,5 +626,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-28:-
 
+### Starting with Azure DevOps services:-
+* **What are we going to learn:-**
+  * What is available with Azure DevOps
+  * What is an Azure DevOps project
+  * The pricing involved with Azure DevOps
+
 
  
