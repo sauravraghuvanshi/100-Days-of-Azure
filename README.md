@@ -650,3 +650,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * The Agile process
   * The Scrum process
   * The CMMI process
+* What are Azure Borads:-
+  * This is a service that helps teams to manage their software projects
+  * It has support for Scrum and kanban
+  * Here you can quickly create and track user stories, backlog items, feature and bugs that are associated with a project 
