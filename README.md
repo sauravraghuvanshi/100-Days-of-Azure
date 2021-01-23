@@ -658,4 +658,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Choose this process when the team needs the simplest model to work with in Azure Boards
   * Steps: Epic-> Issue-> Task
   * The basic Process-Workflow(Bi Directional): To Do-> Doing-> Done
-  
+* The Agile Process:-
+  * Choose this process when when the team need to use Agile process auch as Scrum
+  * Here the team would want to track user stories and track development and test activities
+  * Can also track bugs on the kanban boards
+  * Steps: Epic-> Feature-> User stories-> Task Bug-> Task  | issue
+  * The Agile Process-Workflow(Bi-Directional): New-> Active-> Resolved-> Closed | Removed
+*  
+
