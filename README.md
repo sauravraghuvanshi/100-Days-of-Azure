@@ -656,13 +656,18 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Here you can quickly create and track user stories, backlog items, feature and bugs that are associated with a project 
 * The Basic Process:-
   * Choose this process when the team needs the simplest model to work with in Azure Boards
-  * Steps: Epic-> Issue-> Task
-  * The basic Process-Workflow(Bi Directional): To Do-> Doing-> Done
+  * **Steps:** Epic-> Issue-> Task
+  * **The basic Process-Workflow(Bi Directional):** To Do-> Doing-> Done
 * The Agile Process:-
   * Choose this process when when the team need to use Agile process auch as Scrum
   * Here the team would want to track user stories and track development and test activities
   * Can also track bugs on the kanban boards
-  * Steps: Epic-> Feature-> User stories-> Task Bug-> Task  | issue
-  * The Agile Process-Workflow(Bi-Directional): New-> Active-> Resolved-> Closed | Removed
-*  
+  * **Steps:** Epic-> Feature-> User stories-> Task Bug-> Task  | issue
+  * **The Agile Process-Workflow(Bi-Directional):** New-> Active-> Resolved-> Closed | Removed
+* The Scrum Process:-
+  * When you specifically want to align with the scrum process
+  * Here you track the product backlog and the bugs on a kanban board
+  * **Steps:** Epic-> Feature-> Product backlog item-> Task  | Bug-> Task  | Impediment(issue and bug tracking)
+  * **The Scrum Process-Workflow(Bi-directional):** New-> Approved-> Committed-> Done
+   
 
