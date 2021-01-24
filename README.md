@@ -668,6 +668,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * When you specifically want to align with the scrum process
   * Here you track the product backlog and the bugs on a kanban board
   * **Steps:** Epic-> Feature-> Product backlog item-> Task  | Bug-> Task  | Impediment(issue and bug tracking)
-  * **The Scrum Process-Workflow(Bi-directional):** New-> Approved-> Committed-> Done
-   
+  * **The Scrum Process-Workflow(Bi-directional):** New-> Approved-> Committed-> Done | Removed
+* The CMMI Process:-
+  * When the company follow a more formal project process
+  * **Steps:** Epic-> Feature-> Requirement-> Task | Bug-> Task | Change Request | Issue | Review | Risk
+  * **The CMMI Process-Workflow:** New-> Active-> Resolved-> Closed
+
 
