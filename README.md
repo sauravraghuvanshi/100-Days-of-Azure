@@ -693,5 +693,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Revision Day-2:-
 * Solved questions on Devlop an Instrumental Strategy Section
 * Revised Complete **Develop a Site Reliability Engineering Section**
+* Revised Complete **Devlop a security and compliance plan Section**
 
 
