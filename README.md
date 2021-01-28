@@ -684,8 +684,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Day-30:-
 
-### Revision Day:-
+### Revision Day-1:-
 * Revised complete **Introduction to DevOps Section**
 * Revised Complete **Devlop an Instrumental Strategy Section**
+
+## Day-31:-
+
+### Revision Day-2:-
+* Solved questions on Devlop an Instrumental Strategy Section
 
 
