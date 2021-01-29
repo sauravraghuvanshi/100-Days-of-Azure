@@ -694,5 +694,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 * Solved questions on Devlop an Instrumental Strategy Section
 * Revised Complete **Develop a Site Reliability Engineering Section**
 * Revised Complete **Develop a security and compliance plan Section**
+* Revised Complete **Manage Source Control Section**
+* Revised Complete **Facilitate Communication and Collaboration Section**
+
+
+
 
 
