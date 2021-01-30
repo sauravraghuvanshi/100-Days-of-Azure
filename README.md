@@ -701,6 +701,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ## Revision Day-3:-
 * Solved questions on Manage Source Control Section
+* Solved questions Facilitate Communication and Collaboration Section
 
 
 
