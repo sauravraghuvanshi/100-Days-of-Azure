@@ -725,7 +725,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ### Azure Boards - Slack:-
 * **What we have to cover:-**
-  * Intergration of Azure Boards with Slack:-
+  * Intergration of Azure Boards with Slack
+
+* Intergration of Azure Boards with Slack:-
+  * You can use the Azure Boards application for slack to create work item and monitor the work item activity in the Azure Boards projects from a slack channel
+  * You have first add the Azure Boards app to the slack workspace
+  * Then link the Azure Boards project to the Azure Boards app in the slack
+  * Setup subscription for the work related events in the slack channel 
 
 
 
