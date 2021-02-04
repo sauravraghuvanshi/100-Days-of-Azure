@@ -723,6 +723,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Cycle time:-** This is used to look at the time taken to close a work item after work on it has started
   * **Load time:-** This defines the time taken to close a work item after it has been created.  
 
+### Azure Boards - Slack:-
+* **What we have to cover:-**
+  * Intergration of Azure Boards with Slack:-
+
+
 
 
 
