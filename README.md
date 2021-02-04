@@ -710,12 +710,18 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What are the key concepts with dashboards
   * The different chart available
   * How to create a sample chart and add it to a dashboards
+
 * What are the key concept with dashboards:-
   * These are customized and interactive signboards that helps to provide real-time information.
   * The dashboards are linked with a team or a project
   * The dashboards can be used to deploy charts and widgets
   * **Charts:-** These are trend charts that can be created with a work item query
   * **Widgets:-** This helps to display configurable and charts on dashboards
+
+* The different charts available:-
+  * **Burndown and Burnup:-** The Burndown chart focuses on the remaining work within a specific period of time. The Burnup chart focuses on the complete work. Both of the chart type can be used to see if the team is on the track to complete the set of work by the end date.
+  * **Cycle time:-** This is used to look at the time taken to close a work item after work on it has started
+  * **Load time:-** This defines the time taken to close a work item after it has been created.  
 
 
 
