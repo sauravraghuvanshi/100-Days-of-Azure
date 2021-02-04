@@ -706,7 +706,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ## Day-33:-
 
 ### Lab-Azure Boards-Charts:-
-
+* **What are we going to learn:-**
+  * What are the key concepts with dashboards
+  * The different chart available
+  * How to create a sample chart and add it to a dashboards
 
 
 
