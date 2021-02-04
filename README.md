@@ -710,6 +710,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What are the key concepts with dashboards
   * The different chart available
   * How to create a sample chart and add it to a dashboards
+* What are the key concept with dashboards:-
+  * These are customized and interactive signboards that helps to provide real-time information.
+  * The dashboards are linked with a team or a project
+  * The dashboards can be used to deploy charts and widgets
+  * **Charts:-** These are trend charts that can be created with a work item query
+  * **Widgets:-** This helps to display configurable and charts on dashboards
 
 
 
