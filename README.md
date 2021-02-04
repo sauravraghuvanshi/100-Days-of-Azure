@@ -622,7 +622,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * This is a semantic code analysis engine that treats code as data
   * It can then find for potential vulneraabilities in the code 
 
-# Facilitate communication and colleborotion:-
+# Sction-5:-Facilitate communication and colleborotion:-
 
 ## Day-28:-
 
@@ -733,7 +733,7 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Then link the Azure Boards project to the Azure Boards app in the slack
   * Setup subscription for the work related events in the slack channel 
 
-  # Section-5:- Define and Implement continious Integration-Build Automation:-
+  # Section-6:- Define and Implement continious Integration-Build Automation:-
 
 
 
