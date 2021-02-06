@@ -735,7 +735,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 # Section-6:- Define and Implement continious Integration-Build Automation:-
 
+## Day-34:-
 
+### What is Continious Integration:-
+* **What we have to learn:-**
+  * Used to complement the entire DevOps process
+  * provides automation for your entire applicationn lifecycle
+  * Allows to detect issues and bugs early on in your development lifecycle.
 
 
 
