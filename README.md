@@ -739,6 +739,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 
 ### What is Continious Integration:-
 * **What we have to learn:-**
+  * What is Continious Integration
+  * The need for continious integration
+  * Tools for continious integration
+
+* What is Continious Integration:-
   * Used to complement the entire DevOps process
   * provides automation for your entire applicationn lifecycle
   * Allows to detect issues and bugs early on in your development lifecycle.
