@@ -752,6 +752,8 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * The right tools are important
   * continious integration tools:- Jenkins, Atlassian Bamboo, Teamcity
   * You would also implement your source code versioning tool such as Git and GitHub
+  * You would also implement your testing tools with the continious integration tools
+  * Azure DevOps service service has Azure Pipeline
 
 
 
