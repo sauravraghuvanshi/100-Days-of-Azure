@@ -748,6 +748,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * provides automation for your entire applicationn lifecycle
   * Allows to detect issues and bugs early on in your development lifecycle.
 
+* Tools for continious integration:-
+  * The right tools are important
+  * continious integration tools:- Jenkins, Atlassian Bamboo, Teamcity
+  * You would also implement your source code versioning tool such as Git and GitHub
+
 
 
 
