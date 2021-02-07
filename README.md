@@ -755,6 +755,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * You would also implement your testing tools with the continious integration tools
   * Azure DevOps service service has Azure Pipeline
 
+## Day-35:-
+
+### What is Azure Pipeline
+* **What we have to cover**
+  * What are Azure pipelines
+  * The different parts of Azure pipeline
+
 
 
 
