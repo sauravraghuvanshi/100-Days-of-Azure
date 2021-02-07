@@ -767,6 +767,9 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * You can implement both continious integration and continious delivery for your application using Azure pipeline
   * Azure Pipelines can be used with a variety of programming languages include Python, Java, Javascript, PHP, Ruby, C#, c++, and Go.
   * It integrate with a variety of version control system such as GitHub, GitHub Enterprise, Azure Repos, Git & TFVC, Bitbucket cloud and subversion.
+  * The defination of pipeline can be done via the classic editor or via a YAML file
+  * By default the YAML file is azure-pipeline,yaml file and the file is versioned along with your code
+  * We will be working with the YAML file for building and pipeline
   
 
 
