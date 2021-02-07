@@ -762,6 +762,13 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * What are Azure pipelines
   * The different parts of Azure pipeline
 
+* What are Azure pipelines:-
+  * This is a cloud service that can be used to automatically build and test your code projects. 
+  * You can implement both continious integration and continious delivery for your application using Azure pipeline
+  * Azure Pipelines can be used with a variety of programming languages include Python, Java, Javascript, PHP, Ruby, C#, c++, and Go.
+  * It integrate with a variety of version control system such as GitHub, GitHub Enterprise, Azure Repos, Git & TFVC, Bitbucket cloud and subversion.
+  
+
 
 
 
