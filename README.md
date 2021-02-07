@@ -756,7 +756,6 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * Azure DevOps service service has Azure Pipeline
 
 ## Day-35:-
-
 ### What is Azure Pipeline
 * **What we have to cover**
   * What are Azure pipelines
@@ -776,6 +775,11 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * **Stage:-** This is a way of organizating the job in the pipeline
   * A job can have one or more steps
   * Each step can be a task or a script. This is the smallest block of the pipeline
+
+### Azure Pipeline- Triggering a build:-
+* An Azure pipleline is a part of CI hence if we do some changes to the code and then commit it then Azure pipeline is automatically go to trigger build for the same.
+
+
   
 
 
