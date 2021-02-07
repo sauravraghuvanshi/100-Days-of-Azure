@@ -770,6 +770,12 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
   * The defination of pipeline can be done via the classic editor or via a YAML file
   * By default the YAML file is azure-pipeline,yaml file and the file is versioned along with your code
   * We will be working with the YAML file for building and pipeline
+
+* The different part of Azure Pipeline:-
+  * **Trigger:-** This instruct the pipeline to run
+  * **Stage:-** This is a way of organizating the job in the pipeline
+  * A job can have one or more steps
+  * Each step can be a task or a script. This is the smallest block of the pipeline
   
 
 
