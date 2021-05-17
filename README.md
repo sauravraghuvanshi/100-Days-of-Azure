@@ -1,5 +1,5 @@
 # 100-Day-of-Cloud
-In this Repository, I am going to mention my Cloud Learning for Next 100 Days
+In this Repository, I am going to mention my Azure Learning for Next 100 Days
 
 # Target-1 (To Clear AZ-400 Certification Exam) 
 ## Started preparation for Microsoft Azure DevOps Solution(AZ-400)
@@ -779,6 +779,10 @@ In this Repository, I am going to mention my Cloud Learning for Next 100 Days
 ### Azure Pipeline- Triggering a build:-
 * An Azure pipleline is a part of CI hence if we do some changes to the code and then commit it then Azure pipeline is automatically go to trigger build for the same.
 
+# Day-36:-
+
+## Cleared my Microsoft Certified DevOps Proffesional Expert Exam.
+<img src="Images/Saurav-DevOps.jpg" width="1000">
 
   
 
