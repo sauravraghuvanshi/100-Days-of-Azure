@@ -782,7 +782,7 @@ In this Repository, I am going to mention my Azure Learning for Next 100 Days
 # Day-36:-
 
 ## Cleared my Microsoft Certified DevOps Proffesional Expert Exam.
-<img src="Images/Saurav-DevOps.jpg" width="1000">
+<img src="Images/Saurav-DevOps.jpg" width="100">
 
   
 
