@@ -778,15 +778,16 @@ In this Repository, I am going to mention my Azure Learning for Next 100 Days
 
 ### Azure Pipeline- Triggering a build:-
 * An Azure pipleline is a part of CI hence if we do some changes to the code and then commit it then Azure pipeline is automatically go to trigger build for the same.
-# Day-36:-
+## Day-36:-
 
 ## Cleared my Microsoft Certified DevOps Proffesional Expert Exam.
 <img src="Images/Saurav-DevOps.jpg" width="100">
 
 [Verify my certification](https://www.credly.com/badges/3201a7aa-5ff6-4574-b275-9c2c6c5bdf15?source=linked_in_profile)
   
+# Now I am done with my first target.
 
-
+# Target-2 (To Clear AZ-303 Certification Exam) 
 
 
 
