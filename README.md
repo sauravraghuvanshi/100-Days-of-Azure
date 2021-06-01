@@ -787,7 +787,11 @@ In this Repository, I am going to mention my Azure Learning for Next 100 Days
   
 # Now I am done with my first target.
 
-# Target-2 (To Clear AZ-303 Certification Exam) 
+# Target-2 (To Clear Technologies for Microsoft Azure Architects (AZ-303) Certification Exam) 
+
+## Day-35:- 
+
+### Description:-
 
 
 
