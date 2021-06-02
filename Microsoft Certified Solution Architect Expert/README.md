@@ -1,4 +1,4 @@
-# Target-2 (To Clear Technologies for Microsoft Azure Architects (AZ-303) Certification Exam) 
+# Target- To prepare and clear Technologies for Microsoft Azure Architects (AZ-303) Certification Exam 
 
 ## Day-37:- 
 
