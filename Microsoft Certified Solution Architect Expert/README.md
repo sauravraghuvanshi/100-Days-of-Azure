@@ -3,7 +3,7 @@
 ## Day-37:- 
 
 ### Description:- 
-* This learning path is designed to help you prepare for the AZ-303 Microsoft Azure Architect Technologies exam. 
+* This learning path is designed to help prepare for the AZ-303 Microsoft Azure Architect Technologies exam and at the same time make ready for Azure Architect Role. 
 
 * The AZ-303 and AZ-304 exams replace the older AZ-300 and AZ-301 exams, which will retire on September 30, 2020. These two exams are part of Microsoft’s role-based certification program. Candidates who pass both exams will earn the Microsoft Certified: Azure Solutions Architect Expert certification.
 
@@ -18,3 +18,9 @@
 ### Intended Audience
 * People who want to become Azure cloud architects
 * People preparing for Microsoft’s AZ-303 exam
+
+# Overview of Azure Services
+
+## It is really great place to start the prepration by knowing what all services Azure provied in different domain, so that when we start to design architecture for an application at that time we know what all options and alternatives we have for each services** 
+
+## Day-38:-
