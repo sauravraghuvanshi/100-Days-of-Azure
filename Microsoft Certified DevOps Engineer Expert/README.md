@@ -1,5 +1,4 @@
-# Target-1 (To Clear AZ-400 Certification Exam) 
-## Started preparation for Microsoft Azure DevOps Solution(AZ-400)
+# Target: To prepare and clear AZ-400 Certification Exam and get equiped with Azure DevOps tools and services. 
 
 ## Day-1:-
 
