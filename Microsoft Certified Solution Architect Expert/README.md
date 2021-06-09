@@ -19,8 +19,20 @@
 * People who want to become Azure cloud architects
 * People preparing for Microsoft’s AZ-303 exam
 
-# Overview of Azure Services
+# Module: Overview of Azure Services
 
 ## It is really great place to start the prepration by knowing what all services Azure provied in different domain, so that when we start to design architecture for an application at that time we know what all options and alternatives we have for each services** 
 
 ## Day-38:-
+
+### Azure Overview:
+**For any core application we need 3 core services i.e Compute, Storage, and Networkng**
+* **Compute:-**
+  1. Azure Virtual Machine:-
+     * Infrastructure as a Service Compute Option
+     * Best for lift and shift
+
+  2. Azure App Service:-
+     * PaaS Solution
+     * This platform let you host web and mobile application without even thinking about the underline infrastructure
+     * For most applicatiuon Azure App Service is better option then Azure VM but there are situation like if our application is neither web or mobile app then we can't able to use App Service  
