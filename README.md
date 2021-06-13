@@ -6,8 +6,8 @@
 
 ### My Learning Path
 
-### [Microsoft Certified DevOps Proffesional Expert](https://github.com/sauravraghuvanshi/100-Day-of-Azure/tree/main/Microsoft%20Certified%20DevOps%20Engineer%20Expert)
-### [Microsoft Certified Solution Architect Expert](https://github.com/sauravraghuvanshi/100-Day-of-Azure/tree/main/Microsoft%20Certified%20Solution%20Architect%20Expert)
+### [Microsoft Certified DevOps Proffesional Expert](Microsoft_Certified_DevOps_Engineer_Expert)
+### [Microsoft Certified Solution Architect Expert](Microsoft_Certified_Solution_Architect_Expert)
 
 
 
