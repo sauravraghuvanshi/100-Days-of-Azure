@@ -1,8 +1,8 @@
 # **Target- To prepare and clear Technologies for Microsoft Azure Architects (AZ-303) Certification Exam**
 
 ## [**Demo Labs**](Labs)
-1. [Demo: Creating a Web App from AzureCommand Line Interface](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Creating%20a%20Web%20App%20from%20Azure%20Command%20Line%20Interface.pdf)
-2. 
+1. [**Demo: Creating a Web App from AzureCommand Line Interface**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Creating%20a%20Web%20App%20from%20Azure%20Command%20Line%20Interface.pdf)
+2. [**DEMO: Deploying and Connecting to a Windows Virtual Machine via the Azure**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-%20Deploying%20and%20Connecting%20to%20a%20Windows%20Virtual%20Machine%20via%20the%20Azure.pdf)
 ## **Day-37:-**
 
 ### **Description:-** 
@@ -51,5 +51,22 @@
      * It is the Serverless Compute Offering
      * It contain single function rather then compete application
      * It has consumption plan: Only use resource when a function is running 
+
+## **Day-39:-**
+
+### **Azure Overview:-**
+* **Storage:-**
+There are even more storage option then for copmute. That's beacuse I included database and other data store in the same category.
+  1. Azure Blob Storage:-
+     * It is simplest storage form
+     * It is also called object storage
+     * It is just a collection of files
+     * It doesn't have hierarchical folder structure. It basically have the flat structure.
+     * It is mainly used for unstructured data e.g images, videos, log etc.
+     * It has multiple access tier:-
+       - **Hot Tier:-** Preffered for frequently accessed data
+       - **Cool Tier:-** Infrequently accessed
+       - **Archive:-** Rarely Accessed
+  2. 
 
 
