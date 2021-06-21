@@ -5,7 +5,7 @@
 2. [**DEMO: Deploying and Connecting to a Windows Virtual Machine via the Azure**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-%20Deploying%20and%20Connecting%20to%20a%20Windows%20Virtual%20Machine%20via%20the%20Azure.pdf)
 3. [**DEMO: Deploying and Connecting to a Linux Virtual machine via the Azure Portal**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-Deploying%20and%20Connecting%20to%20a%20Linux%20Virtual%20machine%20via%20the%20Azure%20Portal.pdf)
 4. [**Demo: Create an Availability Set**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Create%20an%20Availability%20Set.pdf)
-5. [**DEMO: Implementing a VM Scale Set with Autoscaling**]()
+5. [**DEMO: Implementing a VM Scale Set with Autoscaling**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-%20Implementing%20a%20VM%20Scale%20Set%20with%20Autoscaling.pdf)
 
 ## **Day-37:-**
 
