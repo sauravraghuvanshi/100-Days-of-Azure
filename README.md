@@ -1,4 +1,4 @@
-# **100-Day-of-Cloud**
+# **100-Days-of-Azure**
 ### In this Repository, I am going to mention my Azure Learning for Azure. In this till now i am done with Microsoft Certified DevOps Proffesional Expert learning path and continously working for Technologies for Microsoft Azure Architects (AZ-303)
 
 
