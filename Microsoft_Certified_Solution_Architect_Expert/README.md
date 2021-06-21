@@ -1,5 +1,8 @@
 # **Target- To prepare and clear Technologies for Microsoft Azure Architects (AZ-303) Certification Exam**
 
+## [**Demo Labs**](Labs)
+1. [Demo: Creating a Web App from AzureCommand Line Interface](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Creating%20a%20Web%20App%20from%20Azure%20Command%20Line%20Interface.pdf)
+2. 
 ## **Day-37:-**
 
 ### **Description:-** 
