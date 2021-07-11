@@ -7,7 +7,7 @@
 4. [**Demo: Create an Availability Set**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Create%20an%20Availability%20Set.pdf)
 5. [**DEMO: Implementing a VM Scale Set with Autoscaling**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-%20Implementing%20a%20VM%20Scale%20Set%20with%20Autoscaling.pdf)
 6. [**DEMO: Deploying Software with VM Extensions**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-Deploying%20Software%20with%20VM%20Extensions.pdf)
-7. [**Demo: Deploying IIS with Custom Script Extension**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-Deploying%20Software%20with%20VM%20Extensions.pdf)
+7. [**Demo: Deploying IIS with Custom Script Extension**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-%20Deploying%20IIS%20with%20Custom%20Script%20Extension.pdf)
 
 
 
