@@ -7,6 +7,7 @@
 4. [**Demo: Create an Availability Set**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/Demo-Create%20an%20Availability%20Set.pdf)
 5. [**DEMO: Implementing a VM Scale Set with Autoscaling**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-%20Implementing%20a%20VM%20Scale%20Set%20with%20Autoscaling.pdf)
 6. [**DEMO: Deploying Software with VM Extensions**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-Deploying%20Software%20with%20VM%20Extensions.pdf)
+7. [**Demo: Deploying IIS with Custom Script Extension**](https://github.com/sauravraghuvanshi/100-Days-of-Azure/blob/main/Microsoft_Certified_Solution_Architect_Expert/Labs/DEMO-Deploying%20Software%20with%20VM%20Extensions.pdf)
 
 
 
@@ -65,7 +66,7 @@
 ### **Azure Overview:-**
 * **Storage:-**
 There are even more storage option then for copmute. That's beacuse I included database and other data store in the same category.
-  1. Azure Blob Storage:-
+  1. **Azure Blob Storage:-**
      * It is simplest storage form
      * It is also called object storage
      * It is just a collection of files
@@ -75,6 +76,21 @@ There are even more storage option then for copmute. That's beacuse I included d
        - **Hot Tier:-** Preffered for frequently accessed data
        - **Cool Tier:-** Infrequently accessed
        - **Archive:-** Rarely Accessed
-  2.
+  2. **Hierarchical file storage:-**
+     * 1. **Azure File Storage:-**
+          * Serves up file share that you can mount on window servers.
+     * 2. **Azure Data Lake Storage Gen 2:-**
+          * Hadoop-compatible storage for use with data application.
+  3. **Relational Database:-**
+     * 1. **Azure SQL Database:-**
+     * 2. **Open Source:-** 
+          * Azure Database for MySQL
+          * Azure Database for MarioDB
+          * Azure Database for PostgreSQL
+  4. **Azure Synapse Analytics:-**
+     * It is a data warehouse solution
+  5. **NoSQL Database:-**
+     * Sutable for application which have large
+          
 
 
