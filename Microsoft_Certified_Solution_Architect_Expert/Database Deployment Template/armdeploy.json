@@ -1,0 +1,84 @@
+
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "servername": {
+            "type": "string",
+            "metadata": {
+                "description": "description"
+            }
+        },
+        "dbcount": {
+            "type": "int",
+            "metadata": {
+                "description": "description"
+            }
+        },
+        "startip": {
+            "type": "string",
+            "metadata": {
+                "description": "description"
+            }
+        },
+        "endip": {
+            "type": "string",
+            "metadata": {
+                "description": "description"
+            }
+        }
+    },
+    "functions": [],
+    "variables": {"dbprefix": "test_db",
+    "adminName": "whome",
+    "adminPassword": "P@55W0rd!!!"},
+    "resources": [
+        {
+            "name": "[parameters('servername')]",
+            "type": "Microsoft.Sql/servers",
+            "apiVersion": "2014-04-01",
+            "location": "[resourceGroup().location]",
+            "tags": {
+                "displayName": "sqlServer1"
+            },
+            "properties": {
+                "administratorLogin": "[variables('adminName')]",
+                "administratorLoginPassword": "[variables('adminPassword')]"
+            },
+            "resources": [
+                {
+                    "type": "firewallRules",
+                    "apiVersion": "2014-04-01",
+                    "dependsOn": [
+                        "[resourceId('Microsoft.Sql/servers', parameters('servername'))]"
+                    ],
+                    "location": "[resourceGroup().location]",
+                    "name": "AllowAllWindowsAzureIps",
+                    "properties": {
+                        "startIpAddress": "[parameters('startip')]",
+                        "endIpAddress": "[parameters('endip')]"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "sqlServer1/sqlDatabase1",
+            "type": "Microsoft.Sql/servers/databases",
+            "apiVersion": "2014-04-01",
+            "location": "[resourceGroup().location]",
+            "tags": {
+                "displayName": "sqlDatabase1"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', 'sqlServer1')]"
+            ],
+            "properties": {
+                "collation": "SQL_Latin1_General_CP1_CI_AS",
+                "edition": "Basic",
+                "maxSizeBytes": "1073741824",
+                "requestedServiceObjectiveName": "Basic"
+            }
+        }
+    ],
+    "outputs": {}
+}
