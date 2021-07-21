@@ -7,26 +7,48 @@
             "metadata": {
                 "description": "description"
             }
+        },
+        "planname": {
+            "type": "string",
+            "metadata": {
+                "description": "description"
+            }
         }
     },
     "functions": [],
     "variables": {},
     "resources": [
         {
+            "name": "[parameters('planname')]",
+            "type": "Microsoft.Web/serverfarms",
+            "apiVersion": "2018-02-01",
+            "location": "[resourceGroup().location]",
+            "sku": {
+                "name": "F1",
+                "capacity": 1
+            },
+            "tags": {
+                "displayName": "[parameters('planname')]"
+            },
+            "properties": {
+                "name": "[parameters('planname')]"
+            }
+        },
+        {
             "name": "[parameters('appname')]",
             "type": "Microsoft.Web/sites",
             "apiVersion": "2018-11-01",
             "location": "[resourceGroup().location]",
             "tags": {
-                "[concat('hidden-related:', resourceGroup().id, '/providers/Microsoft.Web/serverfarms/appServicePlan1')]": "Resource",
+                "[concat('hidden-related:', resourceGroup().id, '/providers/Microsoft.Web/serverfarms/', parameters('planname'))]": "Resource",
                 "displayName": "[parameters('appname')]"
             },
             "dependsOn": [
-                "[resourceId('Microsoft.Web/serverfarms', 'appServicePlan1')]"
+                "[resourceId('Microsoft.Web/serverfarms', parameters('planname'))]"
             ],
             "properties": {
                 "name": "[parameters('appname')]",
-                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', 'appServicePlan1')]"
+                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('planname'))]"
             }
         }
     ],
